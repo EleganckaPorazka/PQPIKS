@@ -46,3 +46,7 @@ cd build
 cmake .. && make
 
 ./example
+
+## Notes
+
+This project is also available at my [other repository](https://gitlab.com/lwolinski/pqpiks).
